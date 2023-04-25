@@ -1,0 +1,14 @@
+# ignore all
+*
+
+# except .gitignore file
+!.gitignore
+!README.md
+
+# except vhdl code in BTH1 folder
+!BTH1/
+!BTH1/*/
+!BTH1/*/*/
+!BTH1/*/*/*/
+!BTH1/*/*/*/new/
+!BTH1/*/*/*/new/*.vhd
