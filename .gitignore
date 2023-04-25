@@ -1,7 +1,7 @@
 # ignore all
 *
 
-# except .gitignore file
+# except .gitignore and README.md files
 !.gitignore
 !README.md
 
